@@ -1,0 +1,29 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: center;
+    
+}
+.intro{
+    background-color: rgb(64, 64, 220);
+    color: aliceblue;
+   
+}
+#one{
+    letter-spacing: 3px;
+}
+.three{
+    background-color: gainsboro;
+    font-size: 15px;
+}
+span{
+    color: rgb(67, 67, 223);
+}
+
+table{
+    margin-top: 10px;
+    justify-content: center;
+    display: flex;
+}
+img{
+    border-radius: 50%;
+}
